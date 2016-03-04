@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9176" started-at="2016-03-04T14:31:22Z" finished-at="2016-03-04T14:31:32Z">
+  <suite name="MakeMyTrip" duration-ms="9275" started-at="2016-03-04T15:00:32Z" finished-at="2016-03-04T15:00:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9176" started-at="2016-03-04T14:31:22Z" finished-at="2016-03-04T14:31:32Z">
-      <class name="com.mmt.login.Login">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mmt.login.Login@c818063]" name="beforeTest" is-config="true" duration-ms="5443" started-at="2016-03-04T20:01:22Z" finished-at="2016-03-04T20:01:28Z">
+    <test name="MakeMyTrip Test Result" duration-ms="9275" started-at="2016-03-04T15:00:32Z" finished-at="2016-03-04T15:00:41Z">
+      <class name="com.mmt.login.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mmt.login.LoginTest@6debcae2]" name="beforeTest" is-config="true" duration-ms="5538" started-at="2016-03-04T20:30:32Z" finished-at="2016-03-04T20:30:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.mmt.login.Login@c818063]" name="test" duration-ms="3725" started-at="2016-03-04T20:01:28Z" finished-at="2016-03-04T20:01:32Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.mmt.login.LoginTest@6debcae2]" name="test" duration-ms="3722" started-at="2016-03-04T20:30:37Z" finished-at="2016-03-04T20:30:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- com.mmt.login.Login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.mmt.login.LoginTest -->
+    </test> <!-- MakeMyTrip Test Result -->
+  </suite> <!-- MakeMyTrip -->
 </testng-results>
