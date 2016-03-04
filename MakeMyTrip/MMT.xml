@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "MakeMyTrip">
+	<test name= "MakeMyTrip Results firefox">
+	<class name="com.mmt.login.LoginTest"/>
+	</test>
+</suite>
